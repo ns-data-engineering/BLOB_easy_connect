@@ -1,0 +1,3 @@
+Para que essa lib funcione corretamente é necessário instalar o pacote de ferramentas microsoft para azure
+
+No Windows, via pip utilize: pip install azure-storage-blob
